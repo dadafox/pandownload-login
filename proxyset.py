@@ -36,5 +36,4 @@ if isAria2 == 0:
 else:
     if isFixed == 0:
         print('未找到 aria2 端口，请联系开发者/提 Issue')
-        print('https://t.me/Ruriri')
         input("\n按回车键退出...")

@@ -3,10 +3,6 @@ from mitmproxy.tools.dump import DumpMaster
 import bs4
 import re
 
-print('加入TG交流群：https://t.me/pandown')
-print('给我捐赠：https://acg.uy/donate.html')
-print('项目地址：https://github.com/TkzcM/pandownload-login/')
-
 
 class AddHeader:
     def response(self, flow):
